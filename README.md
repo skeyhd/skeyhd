@@ -12,4 +12,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skeyhd&show_icons=true&locale=en&layout=compact" alt="skeyhd" /></p>
 
-<p><img align="center" src="https://www.codewars.com/users/Thomas%20W/badges/small" alt="skeyhd" /></p>
+<p><img align="center" src="https://www.codewars.com/users/Thomas%20W/badges/large" alt="skeyhd" /></p>
